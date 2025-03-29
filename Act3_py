@@ -1,0 +1,2 @@
+def check_number(num):
+    print(f"{num} is an {'Even' if num % 2 == 0 else 'Odd'} number.")
